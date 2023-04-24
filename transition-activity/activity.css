@@ -1,1 +1,4 @@
-
+ button:hover {
+    filter:none;
+    transition: 2s;
+  }
